@@ -1,5 +1,7 @@
 # 🐜 Ant Attraction – Three-Way ANOVA Analysis
 
+This project was developed as part of my application for the M.Sc. Data Science program at TU Dortmund University and demonstrates applied statistical modeling, experimental design analysis, and reproducible research in Python.
+
 This project analyzes a controlled experiment investigating how different sandwich characteristics affect ant attraction.
 
 The goal is to determine whether:
@@ -52,10 +54,3 @@ Implemented in Python using:
 Topping explains the largest proportion of variance (~45%).
 
 ---
-
-## ▶️ Reproducibility
-
-```bash
-git clone https://github.com/yourusername/ant-attraction-factorial-anova.git
-pip install -r requirements.txt
-jupyter notebook
